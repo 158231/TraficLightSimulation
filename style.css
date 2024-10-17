@@ -1,0 +1,32 @@
+*{
+margin:0;
+padding:0;
+
+}
+#circle{
+    height:150px;
+    width:150px;
+    background-color:lightskyblue;
+    border-radius:50%
+}  
+#rect{
+    height:200px;
+    width:400px;
+    background:#cccc00;
+    color:#cccc00
+    text-align="center";
+}
+.mainDiv{
+    background-color:lightseagreen;
+    text-align:center;
+    padding:25px;
+    border-radius:5%;
+    margin:20px;
+}
+#btn{
+    margin:10px;
+    padding:10px;
+    background-color:lightsalmon;
+}
+
+
